@@ -4,7 +4,7 @@
 
 | Atribut | Keterangan |
 |---------|------------|
-| **Mata Kuliah** | Pemrograman Berorientasi Objek |
+| **Mata Kuliah** | Pemrograman Lanjut |
 | **Assignment** | Programming Assignment 2 |
 | **Topik** | Object Oriented Programming - SIM Akademik |
 
