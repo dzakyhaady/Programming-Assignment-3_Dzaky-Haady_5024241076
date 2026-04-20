@@ -26,5 +26,4 @@ void Orang::tampilInfo() const {
     std::cout << "Email   : " << email << std::endl;
     std::cout << "Alamat  : " << alamat << std::endl;
 }
-
 } // namespace sim
