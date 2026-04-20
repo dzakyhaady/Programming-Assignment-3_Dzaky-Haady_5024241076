@@ -5,7 +5,7 @@
 | Atribut | Keterangan |
 |---------|------------|
 | **Mata Kuliah** | Pemrograman Lanjut |
-| **Assignment** | Programming Assignment 2 |
+| **Assignment** | Programming Assignment 3 |
 | **Topik** | Object Oriented Programming - SIM Akademik |
 
 ---
