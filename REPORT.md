@@ -176,12 +176,12 @@ Mata Kuliah Diampu:
 ======================
 
 ===== Data Mahasiswa =====
-Nama    : Ahmad Rizki
-ID      : 5025211001
-Email   : ahmad.rizki@student.its.ac.id
+Nama    : Dzaky Haady
+ID      : 5024241076
+Email   : 5024241076@student.its.ac.id
 Alamat  : Jl. Manyar No. 10, Surabaya
-Prodi   : Informatika
-Angkatan: 2021
+Prodi   : Teknik Komputer
+Angkatan: 2024
 IPK     : 3.75
 Mata Kuliah Diambil:
   1. Pemrograman Berorientasi Objek
